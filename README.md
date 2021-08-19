@@ -1,5 +1,3 @@
-### Olá, eu sou o Lucas Ramon 👋
-
 <div>
   <a href="https://github.com/lucas-or-ramon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-or-ramon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
